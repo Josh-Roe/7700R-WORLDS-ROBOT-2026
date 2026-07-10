@@ -1,3 +1,5 @@
+# 7700R WORLDS ROBOT 2026
+
 This GitHub repository outlines the design process that 7700R used for the 2026 VEX World Championship. This robot design presents a unique design that emphasizes ultimate build quality. At the 2026 World Championships, this robot had a record of 10W-2L, placing 5th overall in the Technology Division. Over the course of 2.5 months before the competition, this robot was designed by outlining specific requirements to compete at the highest level. Next, the robot was fully CADed and designed digitally. Finally, the robot was built, tested, and coded to meet specific game requirements.
 
 Robot Statistics:
